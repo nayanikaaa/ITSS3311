@@ -64,3 +64,19 @@ public class StrictlyIdentical {
 			
 	}
 }
+
+/*
+Enter List1: 1 2 3 4 5
+Enter List2: 1 2 3 4 5
+The two Arrays are strictly identical
+Enter List1: 1 2 3 4 5
+Enter List2: 1 2 3 5 4
+The two Arrays are not strictly identical
+Enter List1: 23 55 31 2 10
+Enter List2: 23 55 31 2 10
+The two Arrays are strictly identical
+Enter List1: 23 55 31 2 10
+Enter List2: 23 55 2 31 10
+The two Arrays are not strictly identical
+ */
+
