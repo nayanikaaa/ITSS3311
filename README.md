@@ -66,3 +66,25 @@ public class StrictlyIdentical {
 			
 	}
 }
+
+//The trials:
+
+//Trial 1
+Enter List1: 1 2 3 4 5
+Enter List2: 1 2 3 4 5
+The two Arrays are strictly identical
+
+//Trial 2
+Enter List1: 1 2 3 4 5
+Enter List2: 1 2 3 5 4
+The two Arrays are not strictly identical
+
+//Trial 3
+Enter List1: 23 55 31 2 10
+Enter List2: 23 55 31 2 10
+The two Arrays are strictly identical
+
+//Trial 4
+Enter List1: 23 55 31 2 10
+Enter List2: 23 55 2 31 10
+The two Arrays are not strictly identical
