@@ -1,5 +1,6 @@
 # ITSS3311
 Project 4
+
 import java.util.Scanner;
 	
 public class StrictlyIdentical {
